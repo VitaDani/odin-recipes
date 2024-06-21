@@ -1,0 +1,38 @@
+/* CSS for Odin Recipes page */
+
+* {
+    background-color: tan;
+}
+
+.main_header {
+    text-align: center;
+    color: purple;
+}
+
+.description {
+    color: fuchsia;
+    font-style: italic;
+}
+
+.ingredients {
+    color: chartreuse;
+    font-style: oblique;
+}
+
+.steps {
+    color: lightcoral;
+    font-style: unset;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+ul {
+    list-style:lower-greek;
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
