@@ -8,7 +8,7 @@
     font-size: 100px;
     text-decoration: underline;
     text-align: center;
-    color: purple;
+    color: maroon;
 }
 
 .description {
@@ -31,7 +31,6 @@
     margin: 5px;
     padding: 5px;
     border: 2px groove black;
-    margin-right: 75%;
 }
 
 img {
@@ -45,4 +44,9 @@ ul {
 
 ol {
     list-style-type: decimal-leading-zero;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
 }
