@@ -5,6 +5,8 @@
 }
 
 .main_header {
+    font-size: 100px;
+    text-decoration: underline;
     text-align: center;
     color: purple;
 }
@@ -22,6 +24,14 @@
 .steps {
     color: lightcoral;
     font-style: unset;
+}
+
+.main_items {
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+    border: 2px groove black;
+    margin-right: 75%;
 }
 
 img {
